@@ -85,6 +85,8 @@ Outlet [1, 17]
 [7, 17, 1, 9, 1, 17, 56, 56, 23], [56, 17, 17, 1, 23, 34, 23, 1, 8, 1]
 На выходе [1, 17] 
 
+The solution: 
+
 function compareItems(arrayA, arrayB) {
 	let counter = 0;
 	let starter = 0;
