@@ -1,6 +1,6 @@
 # sometasks
 
-A some tasks in JavaScript
+A some tasks for JavaScript
 
 1. Write a method / function that accepts an array of cities as input. As a result, it returns a string where cities are separated by commas, and there is a period at the end.
 Example:
