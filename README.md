@@ -131,4 +131,6 @@ function compareItems(arrayA, arrayB) {
 	return sameItems;
 	}
 
-The full JS code for this solution is here: https://github.com/PythonProger/twotwice
+The full JS code for this solution is here: https://github.com/junproger/twotwice
+
+Here is only JS code
